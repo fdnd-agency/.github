@@ -1,3 +1,0 @@
-# FDND Agency
-
-Uitleg over de projecten van Semester 2. En links naar de repo's ... 
