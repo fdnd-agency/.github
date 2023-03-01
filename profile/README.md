@@ -2,9 +2,10 @@
 
 Dit zijn de projecten voor semester 2
 
+* [Coding the Curbs](https://github.com/fdnd-agency/coding-the-curbs)
 * [Vervoerregio Amsterdam](https://github.com/fdnd-agency/vervoerregio-amsterdam)
-* [Visual Thinking Platform](https://github.com/fdnd-agency/visual-thinking)
 * [Vini Mini Ouderplatform](https://github.com/fdnd-agency/vini-mini)
+* [Visual Thinking Platform](https://github.com/fdnd-agency/visual-thinking)
 
 
 <!--
