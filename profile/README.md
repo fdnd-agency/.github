@@ -3,6 +3,7 @@
 Dit zijn de projecten voor semester 2
 
 - [Vervoerregio Amsterdam](https://github.com/fdnd-agency/vervoerregio-amsterdam)
+- [Visual Thinking Platform](https://github.com/fdnd-agency/visual-thinking)
 
 
 <!--
