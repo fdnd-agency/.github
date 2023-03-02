@@ -2,10 +2,10 @@
 
 ## Projecten voor semester 2
 
-* [Samrtzones Coding the Curbs](https://github.com/fdnd-agency/coding-the-curbs)
+* [Smartzones Coding the Curbs](https://github.com/fdnd-agency/coding-the-curbs)
 * [Stekjesbieb Buurtcampus-oost](https://github.com/fdnd-agency/buurtcampus-oost)
 * [Toolgankelijkheid Vervoerregio Amsterdam](https://github.com/fdnd-agency/vervoerregio-amsterdam)
-* [Vini Mini Ouderplatform](https://github.com/fdnd-agency/vini-mini)
+* [Ouderplatform Vini Mini](https://github.com/fdnd-agency/vini-mini)
 * [Visual Thinking Platform](https://github.com/fdnd-agency/visual-thinking)
 
 
