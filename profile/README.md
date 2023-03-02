@@ -1,6 +1,6 @@
-## FDND Agency projecten
+# FDND Agency projecten
 
-Dit zijn de projecten voor semester 2
+## Projecten voor semester 2
 
 * [Coding the Curbs](https://github.com/fdnd-agency/coding-the-curbs)
 * [Stekjesbieb Buurtcampus-oost](https://github.com/fdnd-agency/buurtcampus-oost)
