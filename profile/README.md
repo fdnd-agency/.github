@@ -1,4 +1,4 @@
-# FDND Agency projecten
+# FDND Agency
 
 ## Projecten voor semester 2
 
