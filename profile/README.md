@@ -4,11 +4,11 @@
 
 * [Commentary Tool UltiTV](https://github.com/fdnd-agency/ultitv)
 * [Online portal Mijn OBA](https://github.com/fdnd-agency/oba)
-* [Onderwijsmateriaal Visual Thinking Platform](https://github.com/fdnd-agency/visual-thinking)
-* [Smart zones Coding the Curbs](https://github.com/fdnd-agency/coding-the-curbs)
-* [Stekjesbieb Buurtcampus-oost](https://github.com/fdnd-agency/buurtcampus-oost)
-* [Toolgankelijkheid Vervoerregio Amsterdam](https://github.com/fdnd-agency/vervoerregio-amsterdam)
-* [Voedselsuplementen Ouderplatform Vini Mini](https://github.com/fdnd-agency/vini-mini)
+* [Visual Thinking Platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)
+* [Coding the Curbs Smart zones](https://github.com/fdnd-agency/coding-the-curbs)
+* [Buurtcampus-oost Stekjesbieb ](https://github.com/fdnd-agency/buurtcampus-oost)
+* [Vervoerregio Amsterdam Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)
+* [Vini Mini Voedselsuplementen Ouderplatform ](https://github.com/fdnd-agency/vini-mini)
 
 
 <!--
