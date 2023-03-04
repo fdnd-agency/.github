@@ -7,7 +7,7 @@
 * [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)
 * [Buurtcampus-oost - Stekjesbieb ](https://github.com/fdnd-agency/buurtcampus-oost)
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)
-* [Vini Mini Voedselsuplementen - Ouderplatform ](https://github.com/fdnd-agency/vini-mini)
+* [Vini Mini - Ouderplatform Voedselsuplementen](https://github.com/fdnd-agency/vini-mini)
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)
 
 <!--
