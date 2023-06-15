@@ -1,6 +1,9 @@
 # FDND Agency
 
-## Projecten voor semester 2
+## Projecten voor semester 1 ('23)
+* [Platform wijkinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
+
+## Projecten voor semester 2 - 
 
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
