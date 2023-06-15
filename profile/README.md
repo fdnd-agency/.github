@@ -1,7 +1,7 @@
 # FDND Agency
 
 ## Projecten voor semester 1 ('23)
-* [Platform wijkinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
+* [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 
 ## Projecten voor semester 2 - 
 
