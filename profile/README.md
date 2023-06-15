@@ -1,12 +1,12 @@
 # FDND Agency
 
 ## Projecten semester 1 
-(Sep '23 - Jan '24)
+Sep '23 / Jan '24
 
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 
 ## Projecten semester 2
-(Feb '23 - Jul '23)
+Feb '23 / Jul '23
 
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
