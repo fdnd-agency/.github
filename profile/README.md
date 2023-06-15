@@ -1,6 +1,6 @@
 # FDND Agency
 
-## Projecten semester 1 <small>(Sep '23 - Jan '24)</small>
+## Projecten semester 1 <span style="font-size: 1rem">(Sep '23 - Jan '24)</span>
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 
 ## Projecten semester 2 (Feb '23 - Jul '23)
