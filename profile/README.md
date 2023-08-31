@@ -1,11 +1,32 @@
 # FDND Agency
 
-## Projecten semester 1 
-Sep '23 / Jan '24
+2023 - 2024
+## Projecten semester 1
 
+### Jaar 1
+* [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
+* [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
+* [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
+* [UltiLeague](https://github.com/fdnd-agency/ultileague)
+* [CrossMarx Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx-handprint-footprint-calculator)
 
-## Projecten semester 2
+
+### Jaar 2
+* [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
+* [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
+* [Hallo Strandeiland](https://github.com/fdnd-agency/hallo-strandeiland)
+* [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
+* [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
+* [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
+* [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)   
+* [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)
+* [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
+* [Platform Grote Thema's](https://github.com/fdnd-agency/platform-grote-themas)
+* 
+
+2022 - 2023
+## Projecten semester 2 
 Feb '23 / Jul '23
 
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
