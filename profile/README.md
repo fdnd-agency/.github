@@ -1,7 +1,6 @@
 # FDND Agency
 
-2023 - 2024
-## Projecten semester 1
+## Projecten 2023 - 2024
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
@@ -10,7 +9,6 @@
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultileague)
 * [CrossMarx Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx-handprint-footprint-calculator)
-
 
 ### Jaar 2
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
@@ -24,10 +22,7 @@
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
 * [Platform Grote Thema's](https://github.com/fdnd-agency/platform-grote-themas)
 
-2022 - 2023
-## Projecten semester 2 
-Feb '23 / Jul '23
-
+## Projecten 2022 - 2023
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
