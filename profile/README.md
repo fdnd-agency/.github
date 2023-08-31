@@ -23,7 +23,6 @@
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
 * [Platform Grote Thema's](https://github.com/fdnd-agency/platform-grote-themas)
-* 
 
 2022 - 2023
 ## Projecten semester 2 
