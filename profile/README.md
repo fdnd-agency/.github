@@ -6,7 +6,7 @@
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
 * [Spatwater.nl bRAIN](https://github.com/fdnd-agency/spatwater.nl)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
-* [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
+* [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultileague)
 * [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx)
 
