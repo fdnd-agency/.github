@@ -4,7 +4,7 @@
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-* [Spatwater.nl bRAIN](https://github.com/fdnd-agency/spatwater.nl)
+* [SPATwater bRAIN](https://github.com/fdnd-agency/SPATwater)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultitv)
@@ -13,7 +13,7 @@
 
 ### Jaar 2
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-* [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
+* [SPATwater](https://github.com/fdnd-agency/SPATwater)
 * [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx)
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
