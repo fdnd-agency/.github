@@ -8,12 +8,13 @@
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultileague)
-* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/handprint-footprint-calculator)
+* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx)
+
 
 ### Jaar 2
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
 * [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
-* [Hallo Strandeiland](https://github.com/fdnd-agency/hallo-strandeiland)
+* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx)
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
 * [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
