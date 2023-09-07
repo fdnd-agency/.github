@@ -16,7 +16,6 @@
 * [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
 * [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx)
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
-* [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
 * [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)   
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)
