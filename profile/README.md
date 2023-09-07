@@ -8,7 +8,7 @@
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultileague)
-* [CrossMarx Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx-handprint-footprint-calculator)
+* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/handprint-footprint-calculator)
 
 ### Jaar 2
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
