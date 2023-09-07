@@ -7,7 +7,7 @@
 * [Spatwater.nl bRAIN](https://github.com/fdnd-agency/spatwater.nl)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
-* [UltiLeague](https://github.com/fdnd-agency/ultileague)
+* [UltiLeague](https://github.com/fdnd-agency/ultitv)
 * [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx)
 
 
