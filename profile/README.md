@@ -4,7 +4,7 @@
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-* [Spatwater.nl](https://github.com/fdnd-agency/spatwater.nl)
+* [bRAIN](https://github.com/fdnd-agency/bRAIN)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/mijn-funda)
 * [UltiLeague](https://github.com/fdnd-agency/ultileague)
