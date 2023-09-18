@@ -21,7 +21,7 @@
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)   
 * [UltiTV Commentary Tool](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_COMMENTARY_TOOL.md)
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
-* [Platform Grote Thema's](https://github.com/fdnd-agency/platform-grote-themas)
+* [Platform Grote Thema's](https://github.com/fdnd-agency/cmd)
 
 ## Projecten 2022 - 2023
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
