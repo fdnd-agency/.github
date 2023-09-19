@@ -12,7 +12,7 @@
 
 
 ### Jaar 2
-* [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
+<!--* [INK Where the real legends begin](https://github.com/fdnd-agency/INK) -->
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
 * [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md)
