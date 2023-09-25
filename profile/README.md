@@ -17,7 +17,7 @@
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
 * [Platform Grote Thema's](https://github.com/fdnd-agency/cmd)
-* [Mijn OBA - ](https://github.com/fdnd-agency/oba)
+* [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba)
 * [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)   
