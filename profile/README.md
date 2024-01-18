@@ -7,8 +7,8 @@
 * [bRAIN](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_BRAIN.md)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
-* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)
-<!--* [UltiLeague](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_ULTILEAGUE.md)-->
+* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)  
+* [UltiLeague](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_ULTILEAGUE.md)
 
 
 ### Jaar 2
