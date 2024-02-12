@@ -4,7 +4,6 @@
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)
