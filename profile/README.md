@@ -4,12 +4,16 @@
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-* [bRAIN](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_BRAIN.md)
+
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
-* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)  
+* [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)
+* [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
+* [RedPers](https://github.com/fdnd-agency/red-pers)
+<!--
 * [UltiLeague](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_ULTILEAGUE.md)
-
+* [bRAIN](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_BRAIN.md)
+-->
 
 ### Jaar 2
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
