@@ -2,6 +2,8 @@
 
 ## Projecten 2023 - 2024
 
+[Over FDND Agency](https://github.com/fdnd-agency/.github/wiki/FDND-Agency)
+
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
 * [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
