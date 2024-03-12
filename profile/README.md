@@ -17,7 +17,7 @@
 
 ### Jaar 2
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
-* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) | [Live site](https://fdnd-strandeilanden.vercel.app)  
+* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) (🔗 [Live site](https://fdnd-strandeilanden.vercel.app))  
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
 * [Platform Grote Thema's](https://github.com/fdnd-agency/cmd)
