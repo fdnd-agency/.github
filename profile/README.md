@@ -5,7 +5,7 @@
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
-* [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen)
+* [Platform Buurtinitiatieven Amsterdam West](https://github.com/fdnd-agency/de-hallen))
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [Handprint- Footprint Calculator](https://github.com/fdnd-agency/crossmarx/blob/main/HANDPRINT_FOOTPRINT_CALCULATOR.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
@@ -19,7 +19,7 @@
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
 * [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) ([Live site](https://fdnd-strandeilanden.vercel.app))  
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
-* [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
+* [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md) ([Live site](https://spatwater.nl/))  
 * [Platform Grote Thema's](https://github.com/fdnd-agency/cmd) ([Live site](https://grote-themas-sprint-19-rosy.vercel.app/))  
 * [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba) ([Live site](https://mijn-oba.netlify.app/))  
 * [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))  
