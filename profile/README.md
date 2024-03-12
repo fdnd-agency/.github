@@ -17,14 +17,14 @@
 
 ### Jaar 2
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
-* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) (🔗 [Live site](https://fdnd-strandeilanden.vercel.app))  
+* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) ([Live site](https://fdnd-strandeilanden.vercel.app))  
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md)
-* [Platform Grote Thema's](https://github.com/fdnd-agency/cmd)
-* [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba)
-* [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
-* [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
-* [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)   
+* [Platform Grote Thema's](https://github.com/fdnd-agency/cmd) ([Live site](https://grote-themas-sprint-19-rosy.vercel.app/))  
+* [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba) ([Live site](https://mijn-oba.netlify.app/))  
+* [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))  
+* [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://buurtcampus-oost-release-candidate.vercel.app/))  
+* [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam) ([Live site](https://vervoerregio-amsterdam.vercel.app/))   
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_COMMENTARY_TOOL.md)
 
 
