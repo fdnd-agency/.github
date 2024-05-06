@@ -24,7 +24,7 @@
 * [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))  
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://buurtcampus-oost-release-candidate.vercel.app/))  
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam) ([Live site](https://vervoerregio-amsterdam.vercel.app/))
-* [Wogo](https://github.com/fdnd-agency/wogo)
+* [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md) ([Live site](https://spatwater.nl/))     
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_COMMENTARY_TOOL.md)
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
