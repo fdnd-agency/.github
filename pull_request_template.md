@@ -1,35 +1,25 @@
-# Description
-Please include a summary of the changes and the related issue(s).  
-Please include relevant motivation and context, with a screenshot if necessary.  
-Please include a link to the live site, where the change is implemented.  
+## What does this change?
 
-Fixes # (issue)
+Resolves issue #1337
 
-## Type of change
+<!-- A PR should have enough detail to be understandable far in the future. e.g what is the problem/why is the change needed, how does it solve it and any questions or points of discussion. Prefer copying information from a GitHub issue over linking to it; the card may not always exist and reviewers may not have access to the board. -->
 
-Please delete options that are not relevant.
+[livesite](https://livesite.com)
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-# How Has This Been Tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+## How Has This Been Tested?
 
 - [ ] User test
 - [ ] Accessibility test
 - [ ] Performance test
 - [ ] Responsive Design test
+- [ ] Device test
+- [ ] Browser test
 
-# Checklist:
+## Images
 
-- [ ] My code follows the style guidelines of this project
-- [ ] The code is accessible
-- [ ] The code is performant
-- [ ] The code is responsive
-- [ ] I have written meaningful commit messages
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation (README and/or Wiki)
+<!-- Usually only applicable to UI changes, what did it look like before and what will it look like after? -->
+
+
+## How to review
+
+<!-- Provide instructions to help others verify the change. This could take the form of "On PROD, do X and witness Y. On this branch, do X and witness Z. " -->
