@@ -18,7 +18,7 @@
 
 ### Jaar 2
 
-* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) ([Live site](https://fdnd-strandeiland.vercel.app/))
+* [Hallo Strandeiland](https://github.com/fdnd-agency/crossmarx/blob/main/HALLO_STRANDEILAND.md) [🌐](https://fdnd-strandeiland.vercel.app/)
 * [Platform Grote Thema's](https://github.com/fdnd-agency/cmd) ([Live site](https://grote-themas-sprint-19-rosy.vercel.app/))  
 * [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba) ([Live site](https://mijn-oba.netlify.app/))  
 * [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))  
