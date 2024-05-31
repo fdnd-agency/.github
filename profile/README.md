@@ -22,7 +22,7 @@
 * [Platform Grote Thema's](https://github.com/fdnd-agency/cmd) ([Live site](https://grote-themas-sprint-19-rosy.vercel.app/))
 * [Mijn OBA - Profielpagina](https://github.com/fdnd-agency/oba) ([Live site](https://mijn-oba.netlify.app/))
 * [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))  
-* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://buurtcampus-oost-release-candidate.vercel.app/))  
+* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site]([https://buurtcampus-oost-release-candidate.vercel.app/](https://bieb-in-bloei.vercel.app/))  
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam) ([Live site](https://vervoerregio-amsterdam.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [SPATwater](https://github.com/fdnd-agency/SPATwater/blob/main/PROJECT_SPATWATER.md) ([Live site](https://spatwater.nl/))     
