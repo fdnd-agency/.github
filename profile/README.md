@@ -6,7 +6,7 @@
 
 ### Jaar 1
 
-* [Drop & Heal](...)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
 * [Oncollaboration](...)
 * [Mediahuis](...)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
@@ -16,7 +16,7 @@
 * [DDA Vactatures](...)
 
 ### Jaar 2
-* [Drop & Heal](...)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
 * [Oncollaboration](...)
 * [Mediahuis](...)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
