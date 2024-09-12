@@ -8,7 +8,7 @@
 
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek)
-* [Mediahuis](...)
+* [Mediahuis](https://github.com/fdnd-agency/triple)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
 * [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
@@ -18,7 +18,7 @@
 ### Jaar 2
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek)
-* [Mediahuis](...)
+* [Mediahuis](https://github.com/fdnd-agency/triple)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
 * [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
