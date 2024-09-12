@@ -20,14 +20,15 @@
 * [Oncollaboration](...)
 * [Mediahuis](...)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
-* [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
+* [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
 * [Red Pers](https://github.com/fdnd-agency/red-pers)
 * [DDA Vactatures](...)
+* [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [AccessDash](...)
-* [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
+
 
 
 ## Projecten 2023 - 2024
