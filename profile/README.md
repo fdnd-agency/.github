@@ -24,7 +24,7 @@
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
 * [Red Pers](https://github.com/fdnd-agency/red-pers)
 * [DDA Vactatures](...)
-* [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
+* [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [AccessDash](...)
 * ...
