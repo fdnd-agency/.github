@@ -27,7 +27,7 @@
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [AccessDash](...)
-* ...
+* [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 
 
 ## Projecten 2023 - 2024
