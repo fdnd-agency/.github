@@ -2,6 +2,34 @@
 [Over FDND Agency](https://github.com/fdnd-agency/.github/wiki/Over-FDND-Agency)  
 [FDND Agency Conventies](https://github.com/fdnd-agency/.github/wiki/Conventies)
 
+## Projecten 2024 - 2025
+
+### Jaar 1
+
+* [Drop & Heal](...)
+* [Oncollaboration](...)
+* [Mediahuis](...)
+* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
+* [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
+* [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
+* [Red Pers](https://github.com/fdnd-agency/red-pers)
+* [DDA Vactatures](...)
+
+### Jaar 2
+* [Drop & Heal](...)
+* [Oncollaboration](...)
+* [Mediahuis](...)
+* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
+* [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
+* [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
+* [Red Pers](https://github.com/fdnd-agency/red-pers)
+* [DDA Vactatures](...)
+* [Visual Thinking - Platform onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
+* [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
+* [AccessDash](...)
+* ...
+
+
 ## Projecten 2023 - 2024
 
 ### Jaar 1
