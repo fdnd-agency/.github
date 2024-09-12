@@ -13,7 +13,7 @@
 * [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
 * [Red Pers](https://github.com/fdnd-agency/red-pers)
-* [DDA Vactatures](...)
+* [DDA Vactatures](https://github.com/fdnd-agency/voorhoede)
 
 ### Jaar 2
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
@@ -23,7 +23,7 @@
 * [Fabrique](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
 * [Red Pers](https://github.com/fdnd-agency/red-pers)
-* [DDA Vactatures](...)
+* [DDA Vactatures](https://github.com/fdnd-agency/voorhoede)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
