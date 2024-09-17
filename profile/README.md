@@ -64,12 +64,15 @@
 
 <details>
 <summary><h2>Projecten 2022 - 2023</h2></summary>
+
+### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
 * [Buurtcampus-oost - PlantSwap ](https://github.com/fdnd-agency/buurtcampus-oost)  
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)  
 * [Vini Mini - Ouderplatform Voedselsuplementen](https://github.com/fdnd-agency/vini-mini)  
-* [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)  
+* [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)
+  
 </details>
 
