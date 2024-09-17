@@ -32,7 +32,8 @@
 
 
 
-## Projecten 2023 - 2024
+<details>
+<summary><h2>Projecten 2023 - 2024</h2></summary>
 
 ### Jaar 1
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)
@@ -59,9 +60,10 @@
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv/blob/main/PROJECT_COMMENTARY_TOOL.md)
 * [INK Where the real legends begin](https://github.com/fdnd-agency/INK)
 * [Ocean CleanUp](https://github.com/fdnd-agency/ocean-cleanup)
+</details>
 
-
-## Projecten 2022 - 2023
+<details>
+<summary><h2>Projecten 2022 - 2023</h2></summary>
 * [OBA online portal - Mijn OBA](https://github.com/fdnd-agency/oba)  
 * [Visual Thinking - platform Onderwijsmateriaal](https://github.com/fdnd-agency/visual-thinking)  
 * [Coding the Curbs - Smart zones](https://github.com/fdnd-agency/coding-the-curbs)  
@@ -69,5 +71,5 @@
 * [Vervoerregio Amsterdam - Toolgankelijkheid ](https://github.com/fdnd-agency/vervoerregio-amsterdam)  
 * [Vini Mini - Ouderplatform Voedselsuplementen](https://github.com/fdnd-agency/vini-mini)  
 * [UltiTV - Commentary Tool](https://github.com/fdnd-agency/ultitv)  
-
+</details>
 
