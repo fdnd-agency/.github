@@ -14,7 +14,7 @@
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/blob/main/README.md)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo)
 * [Red Pers](https://github.com/fdnd-agency/red-pers)
-* [DDA Vactatures](https://github.com/fdnd-agency/voorhoede)
+* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
 
 ### Jaar 2
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
