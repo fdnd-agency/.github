@@ -30,7 +30,7 @@
 * [Wogo](https://github.com/fdnd-agency/wogo) ([Live site](https://wogo.vercel.app/))
 * [AccessDash](https://github.com/fdnd-agency/future-ready-design)
 * [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte)
-* [Redesign FDND Programma Micro Site](https://github.com/fdnd-agency/fdnd)
+* [FDND Programma Micro Site](https://github.com/fdnd-agency/fdnd)
 
 </details>
 
