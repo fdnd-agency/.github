@@ -14,7 +14,7 @@
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
 * [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
-* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
+* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)
 
 ### Jaar 2
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
@@ -24,7 +24,7 @@
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
 * [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
-* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
+* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking/tree/design-challenge) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) ([Live site](https://wogo.vercel.app/))
