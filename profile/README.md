@@ -7,7 +7,7 @@
 
 ### Jaar 1
 
-* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek)
 * [Mediahuis](https://github.com/fdnd-agency/triple)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
@@ -17,7 +17,7 @@
 * [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
 
 ### Jaar 2
-* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek)
 * [Mediahuis](https://github.com/fdnd-agency/triple)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost) ([Live site](https://bieb-in-bloei.vercel.app/))  
