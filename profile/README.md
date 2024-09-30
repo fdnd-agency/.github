@@ -28,7 +28,7 @@
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking/tree/design-challenge) ([Live site](https://visual-thinking-three.vercel.app/))
 * [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) ([Live site](https://wogo.vercel.app/))
-* [AccessDash](https://github.com/fdnd-agency/future-ready-design)
+* [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/design-challenge)
 * [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte)
 * [FDND Programma Micro Site](https://github.com/fdnd-agency/fdnd)
 
