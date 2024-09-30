@@ -13,7 +13,7 @@
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/))  
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
-* [Red Pers](https://github.com/fdnd-agency/red-pers)
+* [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
 * [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
 
 ### Jaar 2
@@ -23,7 +23,7 @@
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/))  
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
-* [Red Pers](https://github.com/fdnd-agency/red-pers)
+* [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
 * [DDA Vacatures](https://github.com/fdnd-agency/voorhoede)
 * [Mijn Funda Redesign](https://github.com/fdnd-agency/funda)
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking/tree/design-challenge) ([Live site](https://visual-thinking-three.vercel.app/))
