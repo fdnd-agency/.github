@@ -1,6 +1,6 @@
 # FDND Agency
 [Over FDND Agency](https://github.com/fdnd-agency/.github/wiki/Over-FDND-Agency)  
-[FDND Agency Conventies](https://github.com/fdnd-agency/.github/wiki/Conventies)
+[FDND Agency Conventies](https://github.com/fdnd-agency/.github/wiki/Conventies) 💎
 
 <details open>
 <summary><h2>Projecten 2024 - 2025</h2></summary>
