@@ -21,7 +21,7 @@
 | Project | Release Candidate | Live site |
 | :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/design-challenge) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
-| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl)/ |  |
+| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) |  |
 | [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge) | [drop-and-heal.agency.fdnd.nl](https://drop-and-heal.agency.fdnd.nl/) | |
