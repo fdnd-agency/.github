@@ -17,18 +17,19 @@
 
 ### Jaar 2
 
-| Project repo | Release Candidate | Live site |
+| Project repo | Release Candidate | Live site | Team |
 | :--------------- | :--------------- | :--------------- |
-| [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/release-candidate) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
-| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) |  |
-| [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/release-candidate) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |
-| [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte/tree/release-candidate) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |
-| [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/release-candidate) | [drop-and-heal.agency.fdnd.nl](https://drop-and-heal.agency.fdnd.nl/) | |
-| [Mediahuis](https://github.com/fdnd-agency/triple/tree/release-candidate) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |
-| [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/release-candidate) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |
-| [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/release-candidate) | [qatar-museums.agency.fdnd.nl](https://qatar-museums.agency.fdnd.nl/) |  |
-| [Red Pers](https://github.com/fdnd-agency/red-pers/tree/release-candidate) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |
-| [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/release-candidate) | [tumi-mundo.agency.fdnd.nl](https://tumi-mundo.agency.fdnd.nl/) |  |
+| [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/release-candidate) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  | ![image](https://github.com/user-attachments/assets/245ae411-b770-4cac-b746-ac2f0f02b0ab)
+ |
+| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) |  |  |
+| [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/release-candidate) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  |
+| [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte/tree/release-candidate) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  |
+| [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/release-candidate) | [drop-and-heal.agency.fdnd.nl](https://drop-and-heal.agency.fdnd.nl/) | |  |
+| [Mediahuis](https://github.com/fdnd-agency/triple/tree/release-candidate) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |  |
+| [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/release-candidate) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |  |
+| [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/release-candidate) | [qatar-museums.agency.fdnd.nl](https://qatar-museums.agency.fdnd.nl/) |  |  |
+| [Red Pers](https://github.com/fdnd-agency/red-pers/tree/release-candidate) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |  |
+| [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/release-candidate) | [tumi-mundo.agency.fdnd.nl](https://tumi-mundo.agency.fdnd.nl/) |  |  |
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/tree/release-candidate) | [visualthinking.agency.fdnd.nl](https://visualthinking.agency.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |
 | [Wogo](https://github.com/fdnd-agency/wogo/tree/release-candidate) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) | [wogococktailwalk.com](https://www.wogococktailwalk.com/nl) |
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) | [programma.fdnd.nl](https://programma.fdnd.nl/) |
