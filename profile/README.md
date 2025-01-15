@@ -19,7 +19,7 @@
 ### Jaar 2
 
 | Project | Release Candidate | Live site |
-| --------------- | --------------- | --------------- |
+| :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/design-challenge) |  |  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl)/ |  |
 | [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |
