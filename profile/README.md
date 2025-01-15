@@ -32,6 +32,8 @@
 * [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) ([Release Candidate]())
 * [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) ([Release Candidate](https://weloveweb.agency.fdnd.nl/))
 
+| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) | [Release Candidate](https://biebinbloei.agency.fdnd.nl/) | [Live site](https://bieb-in-bloei.vercel.app/) |
+
 </details>
 
 <details>
