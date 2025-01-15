@@ -1,6 +1,7 @@
 # FDND Agency
 
-FDND Agency is het projectenbureau van FDND. De projecten die we doen bij FDND hosten we op GitHub. Studenten, opdrachtgevers én docenten / coaches werken hier samen aan de projecten.
+FDND Agency is het projectenbureau van FDND. Alle projecten waar we bij FDND aan werken staan op GitHub.   
+Studenten, opdrachtgevers én docenten / coaches werken hier samen aan de projecten.
 
 [FDND Agency Conventies](https://github.com/fdnd-agency/.github/wiki/Conventies) 💎
 
