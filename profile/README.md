@@ -7,7 +7,7 @@
 
 ### Jaar 1
 
-* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge) 
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/design-challenge)
 * [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/))  
@@ -17,19 +17,20 @@
 * [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)
 
 ### Jaar 2
-* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
-* [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/design-challenge)
-* [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)
+* [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge) ([Release Candidate](https://drop-and-heal.agency.fdnd.nl/))
+* [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/design-challenge)([Release Candidate]())
+* [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge) ([Release Candidate]())
 * [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/) | [Release Candidate](https://biebinbloei.agency.fdnd.nl/))  
-* [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
-* [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
-* [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
-* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)
+* [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge) ([Release Candidate](https://qatar-museums.agency.fdnd.nl/))
+* [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge) ([Release Candidate]())
+* [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge) ([Release Candidate]())
+* [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge) ([Release Candidate]())
 * [VisualThinking.school](https://github.com/fdnd-agency/visual-thinking/tree/design-challenge) ([Live site](https://visual-thinking-three.vercel.app/))
-* [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) ([Live site](https://wogo.vercel.app/))
-* [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/design-challenge)
-* [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte)
-* [FDND Microsites](https://github.com/fdnd-agency/fdnd)
+* [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) ([Live site](https://wogo.vercel.app/) | [Release Candidate]())
+* [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/design-challenge) ([Release Candidate]())
+* [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte) ([Release Candidate](https://deloitte.agency.fdnd.nl/Inlog))
+* [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) ([Release Candidate]())
+* [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) ([Release Candidate](https://weloveweb.agency.fdnd.nl/))
 
 </details>
 
