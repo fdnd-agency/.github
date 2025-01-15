@@ -20,7 +20,7 @@
 * [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)
 * [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/design-challenge)
 * [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)
-* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/))  
+* [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/) | [Release Candidate](https://biebinbloei.agency.fdnd.nl/))  
 * [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)
 * [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)
 * [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)
