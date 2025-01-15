@@ -17,7 +17,7 @@
 
 ### Jaar 2
 
-| Project repo | Release Candidate | Live site | 
+| project repo | release candidate | live site | 
 | :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/release-candidate) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) |  |  
