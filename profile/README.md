@@ -31,7 +31,7 @@
 | [Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge) |  |  |
 | [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge) | [tumi-mundo.agency.fdnd.nl](https://tumi-mundo.agency.fdnd.nl/) |  |
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/tree/design-challenge) | [visualthinking.agency.fdnd.nl](https://visualthinking.agency.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |
-| [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) | https://www.wogococktailwalk.com/nl |
+| [Wogo](https://github.com/fdnd-agency/wogo/tree/design-challenge) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) | [wogococktailwalk.com/](https://www.wogococktailwalk.com/nl) |
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) |  |
 | [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) | [weloveweb.agency.fdnd.nl](https://weloveweb.agency.fdnd.nl/) |  |
 
