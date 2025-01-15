@@ -2,8 +2,7 @@
 [Over FDND Agency](https://github.com/fdnd-agency/.github/wiki/Over-FDND-Agency)  
 [FDND Agency Conventies](https://github.com/fdnd-agency/.github/wiki/Conventies) 💎
 
-<details open>
-<summary><h2>Projecten 2024 - 2025</h2></summary>
+## Projecten 2024 - 2025
 
 ### Jaar 1
 
@@ -51,7 +50,6 @@
 * [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) ([Release Candidate]())
 * [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) ([Release Candidate](https://weloveweb.agency.fdnd.nl/))
 -->
-</details>
 
 <details>
 <summary><h2>Projecten 2023 - 2024</h2></summary>
