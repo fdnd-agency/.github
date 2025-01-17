@@ -20,7 +20,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 ### Jaar 2
 
-[CD-R 17-01-2024 information](https://github.com/fdnd-task/release-candidate/blob/main/docs/cd-r-week-2.md)
+[Code & Design review 17-01-2024 information](https://github.com/fdnd-task/release-candidate/blob/main/docs/cd-r-week-2.md)
 
 | Project repository | Release candidate | Live site | 
 | :--------------- | :--------------- | :--------------- |
