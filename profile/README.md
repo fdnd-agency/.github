@@ -20,8 +20,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 ### Jaar 2
 
-[Code & Design review 17-01-2024 information](https://github.com/fdnd-task/release-candidate/blob/main/docs/cd-r-week-2.md)
-
 | Project repository | Release candidate | Live site | 
 | :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/release-candidate) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
