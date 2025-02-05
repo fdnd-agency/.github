@@ -1,0 +1,82 @@
+name: Bug Report
+description: Create a bug report to help us improve
+title: "[Bug]: "
+type: "bug"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is.
+      placeholder: Tell us what you experience..
+      value: "A bug happened...|
+        |
+        *Steps to reproduce the behavior:*|
+        1. Go to '...'|
+        2. Click on '....'|
+        3. Scroll down to '....'|
+        4. See error"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: I expected the site to...
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+      description: A clear and concise description of what happened instead
+      placeholder: Tell us what happened instead...
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: What device are you experiencing the problem on?
+      multiple: true
+      options:
+        - Mobile
+        - Tablet
+        - Laptop
+        - Desktop
+        - Television
+        - Projector
+        - Other
+  - type: dropdown
+    id: os
+    attributes:
+      label: What operating system are you experiencing the problem on?
+      multiple: true
+      options:
+        - Android
+        - Chromium
+        - iOS
+        - iPadOS
+        - Linux
+        - macOS
+        - Windows 10
+        - Windows 11
+        - Other
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you experiencing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Arc
+        - Other
