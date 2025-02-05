@@ -11,15 +11,9 @@ body:
     id: description
     attributes:
       label: Description
-      description: A clear and concise description of what the bug is.
+      description: A clear and concise description of what the bug is. Please add steps to reproduce the bug.
       placeholder: Tell us what you experience..
-      value: "A bug happened...|
-        |
-        *Steps to reproduce the behavior:*|
-        1. Go to '...'|
-        2. Click on '....'|
-        3. Scroll down to '....'|
-        4. See error"
+      value: "A bug happened..."
     validations:
       required: true
   - type: textarea
