@@ -12,8 +12,7 @@ body:
     attributes:
       label: Description
       description: A clear and concise description of what the bug is. Please add steps to reproduce the bug.
-      placeholder: Tell us what you experience..
-      value: "A bug happened..."
+      placeholder: A bug happened...
     validations:
       required: true
   - type: textarea
@@ -22,7 +21,6 @@ body:
       label: Expected behavior
       description: A clear and concise description of what you expected to happen.
       placeholder: I expected the site to...
-      value: "A bug happened!"
     validations:
       required: true
   - type: textarea
@@ -30,8 +28,7 @@ body:
     attributes:
       label: Actual behavior
       description: A clear and concise description of what happened instead
-      placeholder: Tell us what happened instead...
-      value: "A bug happened!"
+      placeholder: What happened instead was...
     validations:
       required: true
   - type: dropdown
