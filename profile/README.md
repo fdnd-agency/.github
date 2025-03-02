@@ -29,6 +29,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte/tree/release-candidate) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/release-candidate) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) | |  
 | [Mediahuis](https://github.com/fdnd-agency/triple/tree/release-candidate) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |  
+| [Milledoni](https://github.com/fdnd-agency/milledoni/tree/main) |  |  |  
 | [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/release-candidate) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |  
 | [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/release-candidate) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  |  
 | [Red Pers](https://github.com/fdnd-agency/red-pers/tree/release-candidate) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |  
