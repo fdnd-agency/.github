@@ -15,7 +15,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) ([Live site](https://bieb-in-bloei.vercel.app/))   
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)   
-[Red Pers](https://github.com/fdnd-agency/red-pers/tree/design-challenge)   
+[Milledoni](https://github.com/fdnd-agency/milledoni/tree/main)  
 [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)   
 
 ### Jaar 2
@@ -29,7 +29,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte/tree/release-candidate) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/release-candidate) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) | |  
 | [Mediahuis](https://github.com/fdnd-agency/triple/tree/release-candidate) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |  
-| [Milledoni](https://github.com/fdnd-agency/milledoni/tree/main) |  |  |  
 | [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/release-candidate) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |  
 | [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/release-candidate) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  |  
 | [Red Pers](https://github.com/fdnd-agency/red-pers/tree/release-candidate) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |  
