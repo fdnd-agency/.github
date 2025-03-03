@@ -13,7 +13,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/release-candidate)   
 [Mediahuis](https://github.com/fdnd-agency/triple/tree/release-candidate)   
 [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate) / [Live site](https://bieb-in-bloei.vercel.app/)  
-[Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)   
+[Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/release-candidate)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/release-candidate)   
 [Milledoni](https://github.com/fdnd-agency/milledoni/tree/main)  
 [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/release-candidate)   
