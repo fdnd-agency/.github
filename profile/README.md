@@ -12,7 +12,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)   
 [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology/tree/design-challenge)   
 [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)   
-[Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge) / [Live site](https://bieb-in-bloei.vercel.app/)  
+[Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/design-challenge)
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)   
 [Milledoni](https://github.com/fdnd-agency/milledoni/tree/design-challenge)  
@@ -24,7 +24,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design/tree/release-candidate) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
 | [Atlas 40 - 45](https://github.com/fdnd-agency/4-mei-comite-oosterparkbuurt/tree/release-candiate) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/) |  |  
-| [Bieb in Bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) |  |  
+| [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) | [Biebinbloei.nl](https://biebinbloei.nl) |  
 | [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/release-candidate) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte/tree/release-candidate) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/release-candidate) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) | |  
