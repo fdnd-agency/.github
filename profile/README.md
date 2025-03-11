@@ -23,19 +23,19 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
-| [Atlas 40 - 45](https://github.com/fdnd-agency/4-mei-comite-oosterparkbuurt) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/) |  |  
+| [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/) |  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) | [Biebinbloei.nl](https://biebinbloei.nl) |  
-| [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/release-candidate) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
+| [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) | |  
 | [Mediahuis](https://github.com/fdnd-agency/triple) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |  
-| [Oncollaboration](https://github.com/fdnd-agency/antoni-van-leeuwenhoek-oncology) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |  
+| [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | |  
 | [Qatar Museums](https://github.com/fdnd-agency/fabrique) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  |  
 | [Red Pers](https://github.com/fdnd-agency/red-pers) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |  
-| [Toolgankelijk](https://github.com/fdnd-agency/vervoerregio-amsterdam/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |
-| [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  |  
+| [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |
+| [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  |  
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.agency.fdnd.nl](https://visualthinking.agency.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |
-| [Wogo](https://github.com/fdnd-agency/wogo/) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) | [wogococktailwalk.com](https://www.wogococktailwalk.com/nl) |
+| [Wogo](https://github.com/fdnd-agency/wogo) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) | [wogococktailwalk.com](https://www.wogococktailwalk.com/nl) |
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) | [programma.fdnd.nl](https://programma.fdnd.nl/) |
 | [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) | [weloveweb.agency.fdnd.nl](https://weloveweb.agency.fdnd.nl/) | [weloveweb.fdnd.nl](https://weloveweb.fdnd.nl/) |
 
