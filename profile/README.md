@@ -9,7 +9,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 ### Jaar 1
 
-[Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/tree/design-challenge)   
+[Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/wiki/Design-Challenge)   
 [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge)   
 [Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)   
 [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge)  
