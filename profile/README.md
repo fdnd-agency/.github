@@ -11,7 +11,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/wiki/Design-Challenge)   
 [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge)   
-[Mediahuis](https://github.com/fdnd-agency/triple/tree/design-challenge)   
+[Mediahuis](https://github.com/fdnd-agency/triple/wiki/Design-Challenge)   
 [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge)  
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/tree/design-challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumi-mundo/tree/design-challenge)   
