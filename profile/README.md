@@ -16,7 +16,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/wiki/Design-Challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/wiki/Design-Challenge)   
 [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
-[DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)   
+[DDA Vacatures](https://github.com/fdnd-agency/voorhoede/wiki/Design-Challenge)   
 
 ### Jaar 2
 
