@@ -31,7 +31,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [Mediahuis](https://github.com/fdnd-agency/triple) | [mediahuis.dev.fdnd.nl](https://mediahuis.dev.fdnd.nl/) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) |  
 | [Qatar Museums](https://github.com/fdnd-agency/fabrique) | [qatarmuseums.dev.fdnd.nl](https://qatarmuseums.dev.fdnd.nl/) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  
-| [Red Pers](https://github.com/fdnd-agency/red-pers) | [redpers.agency.fdnd.nl](http://redpers.agency.fdnd.nl/) |  |  
 | [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |
 | [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/) | [tumimundo.dev.fdnd.nl](https://tumimundo.dev.fdnd.nl/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.agency.fdnd.nl](https://visualthinking.agency.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |
