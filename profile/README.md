@@ -8,15 +8,14 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 ## Projecten 2024 - 2025
 
 ### Jaar 1
-
+[Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge) 
+[DDA Vacatures](https://github.com/fdnd-agency/voorhoede/wiki/Design-Challenge)   
 [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal/wiki/Design-Challenge)   
+[Mediahuis](https://github.com/fdnd-agency/triple/wiki/Design-Challenge) 
+[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
 [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge)   
-[Mediahuis](https://github.com/fdnd-agency/triple/wiki/Design-Challenge)   
-[Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge)  
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/wiki/Design-Challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/wiki/Design-Challenge)   
-[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
-[DDA Vacatures](https://github.com/fdnd-agency/voorhoede/wiki/Design-Challenge)   
 
 ### Jaar 2
 
