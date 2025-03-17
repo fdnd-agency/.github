@@ -22,7 +22,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
-| [AccessDash](https://github.com/fdnd-agency/future-ready-design) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
+| [AccessDash](https://github.com/fdnd-agency/accessdash) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [DDA Vacatures](https://github.com/fdnd-agency/dda/) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
