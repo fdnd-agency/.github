@@ -15,7 +15,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge)  
 [Qatar Museums](https://github.com/fdnd-agency/fabrique/wiki/Design-Challenge)   
 [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/wiki/Design-Challenge)   
-[Milledoni](https://github.com/fdnd-agency/milledoni/tree/design-challenge)  
+[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
 [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/tree/design-challenge)   
 
 ### Jaar 2
