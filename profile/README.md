@@ -25,7 +25,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [AccessDash](https://github.com/fdnd-agency/future-ready-design) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  |  
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.agency.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
-| [DDA Vacatures](https://github.com/fdnd-agency/voorhoede/) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
+| [DDA Vacatures](https://github.com/fdnd-agency/dda/) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  |  
 | [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) | |  
 | [Mediahuis](https://github.com/fdnd-agency/triple) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) |  |  
