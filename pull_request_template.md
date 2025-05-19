@@ -8,7 +8,7 @@ Resolves issue #1337
 
 ## How Has This Been Tested?
 
-- [ ] User test
+- [ ] [User test]()
 - [ ] Accessibility test
 - [ ] Performance test
 - [ ] Responsive Design test
