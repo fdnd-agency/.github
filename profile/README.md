@@ -31,7 +31,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) |  
 | [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |  
 | [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/) | [tumimundo.dev.fdnd.nl](https://tumimundo.dev.fdnd.nl/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  
-| [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
+| [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
 | [Wogo](https://github.com/fdnd-agency/wogo) | [wogo.dev.fdnd.nl](https://wogo.dev.fdnd.nl/) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) |  
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) | [programma.fdnd.nl](https://programma.fdnd.nl/) |  
 
