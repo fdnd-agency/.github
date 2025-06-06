@@ -21,7 +21,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
-
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) | [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/)  |  
