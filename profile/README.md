@@ -22,8 +22,8 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
-| [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) | [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/)  |  
+| [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.dev.fdnd.nl](https://dropandheal.dev.fdnd.nl/) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) |  
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) |  
 | [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |  
