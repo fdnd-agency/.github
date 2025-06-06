@@ -23,7 +23,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | :--------------- | :--------------- | :--------------- |
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) | [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/)  |  
-| [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.agency.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
+| [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.dev.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.dev.fdnd.nl](https://dropandheal.dev.fdnd.nl/) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) |  
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | [embassyofthefreemind.agency.fdnd.nl](https://embassyofthefreemind.agency.fdnd.nl/) |  
 | [Leidensportzomer.nl](https://github.com/fdnd-agency/leidensportzomer.nl) | [leidensportzomer.dev.fdnd.nl](https://leidensportzomer.dev.fdnd.nl/) | [leidensportzomer.agency.fdnd.nl](https://leidensportzomer.agency.fdnd.nl/) | 
