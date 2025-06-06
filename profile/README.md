@@ -27,7 +27,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.dev.fdnd.nl](https://dropandheal.dev.fdnd.nl/) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) |  
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) 🚧 | [embassyofthefreemind.agency.fdnd.nl](https://embassyofthefreemind.agency.fdnd.nl/) 🚧 |  
 | [Leidensportzomer.nl](https://github.com/fdnd-agency/leidensportzomer.nl) | [leidensportzomer.dev.fdnd.nl](https://leidensportzomer.dev.fdnd.nl/) 🚧 | [leidensportzomer.agency.fdnd.nl](https://leidensportzomer.agency.fdnd.nl/) 🚧 | 
-| [Milledoni](https://github.com/fdnd-agency/milledoni) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) 🚧 | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) 🚧 |  
+| [Milledoni](https://github.com/fdnd-agency/milledoni) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) 🚧 |  
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) |  
 | [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |  
 | [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/) | [tumimundo.dev.fdnd.nl](https://tumimundo.dev.fdnd.nl/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  
