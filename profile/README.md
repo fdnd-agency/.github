@@ -21,18 +21,18 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten. [Lees
 
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
-| [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/) | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
-| [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) ⏼| [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/) ⏼ |  
+| [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/)  | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  |  
+| [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) 🚧| [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/) 🚧 |  
 | [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) | [biebinbloei.dev.fdnd.nl](https://biebinbloei.dev.fdnd.nl) | [biebinbloei.nl](https://biebinbloei.nl) |  
 | [Drop & Heal](https://github.com/fdnd-agency/drop-and-heal) | [dropandheal.dev.fdnd.nl](https://dropandheal.dev.fdnd.nl/) | [dropandheal.agency.fdnd.nl](https://dropandheal.agency.fdnd.nl/) |  
-| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) ⏼ | [embassyofthefreemind.agency.fdnd.nl](https://embassyofthefreemind.agency.fdnd.nl/) ⏼ |  
-| [Leidensportzomer.nl](https://github.com/fdnd-agency/leidensportzomer.nl) | [leidensportzomer.dev.fdnd.nl](https://leidensportzomer.dev.fdnd.nl/) ⏼ | [leidensportzomer.agency.fdnd.nl](https://leidensportzomer.agency.fdnd.nl/) ⏼| 
-| [Milledoni](https://github.com/fdnd-agency/milledoni) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) ⏼ | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) ⏼ |  
+| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) 🚧 | [embassyofthefreemind.agency.fdnd.nl](https://embassyofthefreemind.agency.fdnd.nl/) 🚧 |  
+| [Leidensportzomer.nl](https://github.com/fdnd-agency/leidensportzomer.nl) | [leidensportzomer.dev.fdnd.nl](https://leidensportzomer.dev.fdnd.nl/) 🚧 | [leidensportzomer.agency.fdnd.nl](https://leidensportzomer.agency.fdnd.nl/) 🚧 | 
+| [Milledoni](https://github.com/fdnd-agency/milledoni) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) 🚧 | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) 🚧 |  
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) |  
 | [Toolgankelijk](https://github.com/fdnd-agency/toolgankelijk/) | [toolgankelijk.dev.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) | [toolgankelijk.agency.fdnd.nl](http://toolgankelijk.agency.fdnd.nl/) |  
 | [Tumi Mundo](https://github.com/fdnd-agency/tumimundo/) | [tumimundo.dev.fdnd.nl](https://tumimundo.dev.fdnd.nl/) | [tumimundo.agency.fdnd.nl](https://tumimundo.agency.fdnd.nl/) |  
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
-| [Wogo](https://github.com/fdnd-agency/wogo) | [wogo.dev.fdnd.nl](https://wogo.dev.fdnd.nl/) ⏼ | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) |  
+| [Wogo](https://github.com/fdnd-agency/wogo) | [wogo.dev.fdnd.nl](https://wogo.dev.fdnd.nl/) 🚧 | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) |  
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) | [programma.fdnd.nl](https://programma.fdnd.nl/) |  
 
 <!--| [AccessDash](https://github.com/fdnd-agency/accessdash) | [accessdash.dev.fdnd.nl](https://accessdash.dev.fdnd.nl/) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  -->
