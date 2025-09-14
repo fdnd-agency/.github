@@ -4,8 +4,34 @@ FDND Agency is het projectenbureau van [FDND.nl](https://fdnd.nl).
 Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html)
+<!--
+<details>
+<summary><h2>Projecten 2025 - 2026</h2></summary>
 
-## Projecten 2024 - 2025
+### Jaar 1
+[Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045)  
+[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
+[Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind)  
+[...]()  
+[...]()  
+[...]()  
+[...]()  
+ 
+
+### Jaar 2
+| Project repository | Dev site | Live site | 
+| :--------------- | :--------------- | :--------------- |
+| [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/)  | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  | 
+| [Bajeslab](https://github.com/fdnd-agency/bajeslab) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) 🚧| [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/) 🚧 | 
+| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
+| [Milledoni](https://github.com/fdnd-agency/milledoni) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) 🚧 | 
+| [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
+
+</details>
+-->
+
+<details>
+<summary><h2>Projecten 2024 - 2025</h2></summary>
 
 ### Jaar 1
 [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl/wiki/Design-Challenge)  
@@ -41,6 +67,8 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 <!--| [Mediahuis](https://github.com/fdnd-agency/triple) | [mediahuis.dev.fdnd.nl](https://mediahuis.dev.fdnd.nl/) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) | --> 
 <!--| [Qatar Museums](https://github.com/fdnd-agency/fabrique) | [qatarmuseums.dev.fdnd.nl](https://qatarmuseums.dev.fdnd.nl/) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  -->
 <!--| [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) | [weloveweb.agency.fdnd.nl](https://weloveweb.agency.fdnd.nl/) | [weloveweb.fdnd.nl](https://weloveweb.fdnd.nl/) |-->
+
+</details>
 
 <details>
 <summary><h2>Projecten 2023 - 2024</h2></summary>
