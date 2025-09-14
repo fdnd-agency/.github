@@ -28,7 +28,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 
 </details>
--->
+<!-- -->
 
 <details>
 <summary><h2>Projecten 2024 - 2025</h2></summary>
