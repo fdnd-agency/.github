@@ -4,7 +4,7 @@ FDND Agency is het projectenbureau van [FDND.nl](https://fdnd.nl).
 Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html)
-<!--
+
 <details>
 <summary><h2>Projecten 2025 - 2026</h2></summary>
 
@@ -17,7 +17,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge)  
 [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)  
 [...]()  
- 
 
 ### Jaar 2
 | Project repository | Dev site | Live site | 
