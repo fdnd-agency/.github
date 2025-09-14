@@ -5,6 +5,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html)
 
+<!--
 <details>
 <summary><h2>Projecten 2025 - 2026</h2></summary>
 
@@ -32,7 +33,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 
 </details>
-
+-->
 <details>
 <summary><h2>Projecten 2024 - 2025</h2></summary>
 
