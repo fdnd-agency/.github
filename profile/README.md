@@ -12,9 +12,9 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045)  
 [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
 [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind)  
-[...]()  
-[...]()  
-[...]()  
+[Ideeënbibliotheek Human Values for Smarter Cities](https://github.com/fdnd-agency/ideeenbibliotheek)  
+[Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/tree/main)  
+[SnappThis](https://github.com/fdnd-agency/snappthis)  
 [...]()  
  
 
