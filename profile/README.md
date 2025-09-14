@@ -12,10 +12,10 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  
 [Buurtkrant](https://github.com/fdnd-agency/buurtkrant/wiki/Design-Challenge)  
 [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge)  
-[Ideeënbibliotheek Human Values for Smarter Cities](https://github.com/fdnd-agency/ideeenbibliotheek/wiki/Design-Challenge) 
-[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) 
-[Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge)  
-[SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)  
+[Ideeënbibliotheek Human Values for Smarter Cities](https://github.com/fdnd-agency/ideeenbibliotheek/wiki/Design-Challenge)  
+[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
+[Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge)   
+[SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)   
 
 ### Jaar 2
 | Project repository | Dev site | Live site | 
