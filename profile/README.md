@@ -31,6 +31,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | [...](...)  | [...](...)  |
+| [Zelfzorg aan Zee](https://github.com/fdnd-agency/zelfzorgaanzee/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 
 </details>
 -->
