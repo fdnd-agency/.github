@@ -11,7 +11,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 ### Jaar 1
 [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  
-[Buurtkrant](https://github.com/fdnd-agency/buurtkrant/wiki/Design-Challenge)  
+[Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge)  
 [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge)  
 [Ideeënbibliotheek Human Values for Smarter Cities](https://github.com/fdnd-agency/ideeenbibliotheek/wiki/Design-Challenge)  
 [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
