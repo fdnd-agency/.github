@@ -21,7 +21,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
 | [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
-| [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge) *| [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/)  | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  | 
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [...](...) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 | [BijlmerChronicles](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [...](...)  | [...](...)  |
