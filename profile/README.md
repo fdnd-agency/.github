@@ -21,7 +21,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge) | [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/)  | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  | 
-| [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/) 🚧| [bajeslab.agency.fdnd.nl](https://bajeslab.agency.fdnd.nl/) 🚧 | 
+| [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [...](...) | 
 | [Buurtkrant](https://github.com/fdnd-agency/buurtkrant/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [BijlmerChronicles](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge) | [...](...)  | [...](...)  |
@@ -29,7 +29,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) | [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
-| [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [milledoni.agency.fdnd.nl](https://milledoni.agency.fdnd.nl/) 🚧 
+| [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | [...](...)  | [...](...)  |
