@@ -30,7 +30,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) *| [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
-| [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
+| [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) * | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 
