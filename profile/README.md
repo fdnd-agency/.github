@@ -30,10 +30,11 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) * | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
+| [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 
-| [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
+
 
 
 
