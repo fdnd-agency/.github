@@ -13,7 +13,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge)  
 [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge)  
 [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
-[Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge)   
+[ADConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge)   
 [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)
 -->
 
@@ -31,7 +31,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
-| [Overlegplatform AD's](https://github.com/fdnd-agency/overlegplatformads/wiki/Design-Challenge) | [...](...)  | [...](...)  |
+| [ADConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 
 
