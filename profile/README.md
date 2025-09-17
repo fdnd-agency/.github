@@ -8,19 +8,19 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 <h2>Projecten 2025 - 2026</h2>
 <!--
 ### Jaar 1
+[AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge)   
 [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  
 [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge)  
 [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge)  
 [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge)  
 [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
-[ADConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge)   
 [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)
 -->
 
 ### Jaar 2
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
-| [ADConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
+| [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 | [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge) *| [atlas4045.dev.fdnd.nl](https://atlas4045.dev.fdnd.nl/)  | [atlas4045.agency.fdnd.nl](https://atlas4045.agency.fdnd.nl/)  | 
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [...](...) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
