@@ -33,6 +33,10 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 
+| [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
+
+
+
 
 </details>
 
