@@ -6,16 +6,18 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html)
 
 <h2>Projecten 2025 - 2026</h2>
-<!--
+
 ### Jaar 1
-[Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  
-[AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge)   
-[Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge)  
-[Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge)  
-[City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge)  
-[Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge)  
-[SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge)
--->
+<!-- [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  -->
+| Project Design Challenge | 
+| :--------------- | 
+| [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | 
+| [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) | 
+| [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge) | 
+| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) | 
+| [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | 
+| [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | 
+
 
 ### Jaar 2
 | Project repository | Dev site | Live site | 
