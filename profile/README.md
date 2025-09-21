@@ -9,8 +9,8 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 ### Jaar 1
 <!-- [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  -->
-| Project Design Challenge | 
-| :--------------- | 
+| Project | 
+| :--------- | 
 | [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) | 
 | [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge) | 
