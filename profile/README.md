@@ -13,7 +13,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | :--------- | 
 | [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) | 
-| [Designing for Recognition](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge) | 
+| [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) | 
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) | 
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | 
