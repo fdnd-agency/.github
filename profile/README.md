@@ -14,7 +14,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) | 
 | [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) | 
-| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) | 
+| [Embassy of the Free Mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) | 
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | 
 
@@ -28,7 +28,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [BijlmerChronicles](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) * | [...](...)  | [...](...)  |
 | [Civic Social Media Toolbox](https://github.com/fdnd-agency/civicsocialmediatoolbox/wiki/Design-Challenge) | [...](...)  | [...](...)  |
-| [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) *| [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
+| [Embassy of the Free Mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) *| [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) * | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [...](...) | 
