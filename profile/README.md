@@ -26,7 +26,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [...](...) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
 | [BijlmerChronicles](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [...](...)  | [...](...)  |
-| [City Values Exchange](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge) * | [...](...)  | [...](...)  |
+| [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) * | [...](...)  | [...](...)  |
 | [Civic Social Media Toolbox](https://github.com/fdnd-agency/civicsocialmediatoolbox/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Embassy of the free mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) *| [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
