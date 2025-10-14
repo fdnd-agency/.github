@@ -35,6 +35,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
+| [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
 
 
 
