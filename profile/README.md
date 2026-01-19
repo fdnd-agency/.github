@@ -22,12 +22,12 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 ### Jaar 2
 | Project repository | Dev site | Live site | 
 | :--------------- | :--------------- | :--------------- |
-| [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
-| [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [...](...) | 
-| [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) *| [...](...)  | [...](...)  |
-| [BijlmerChronicles](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [...](...)  | [...](...)  |
-| [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) * | [...](...)  | [...](...)  |
-| [Civic Social Media Toolbox](https://github.com/fdnd-agency/civicsocialmediatoolbox/wiki/Design-Challenge) | [...](...)  | [...](...)  |
+| [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) *| [adconnect.dev.fdnd.nl](https://adconnect.dev.fdnd.nl)  | [---](...)  |
+| [Bajeslab](https://github.com/fdnd-agency/bajeslab/wiki/Design-Challenge) | [bajeslab.dev.fdnd.nl](https://bajeslab.dev.fdnd.nl/)| [---](...) | 
+| [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) *| [buurtcampuskrant.dev.fdnd.nl](https://buurtcampuskrant.dev.fdnd.nl/)  | [---](...)  |
+| [Emizabo](https://github.com/fdnd-agency/bijlmerchronicles/wiki/Design-Challenge) | [emibazo.dev.fdnd.nl](https://emibazo.dev.fdnd.nl/)  | [---](...)  |
+| [Designing for Recognition](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge) * | [designingforrecognition.dev.fdnd.nl](https://designingforrecognition.dev.fdnd.nl/)  | [---](...)  |
+| [Civic Social Media Toolbox](https://github.com/fdnd-agency/civicsocialmediatoolbox/wiki/Design-Challenge) | [civicsocialmediatoolbox.dev.fdnd.nl](https://civicsocialmediatoolbox.dev.fdnd.nl)  | [...](...)  |
 | [Embassy of the Free Mind](https://github.com/fdnd-agency/embassyofthefreemind/wiki/Design-Challenge) *| [embassyofthefreemind.dev.fdnd.nl](https://embassyofthefreemind.dev.fdnd.nl/) | 
 | [FootGuard](https://github.com/fdnd-agency/footguard/wiki/Design-Challenge) | [...](...)  | [...](...)  |
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [...](...)  | [...](...)  |
