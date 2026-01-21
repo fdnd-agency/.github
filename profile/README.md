@@ -33,7 +33,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Herstelkompas](https://github.com/fdnd-agency/herstelkompas/wiki/Design-Challenge) | [herstelkompas.dev.fdnd.nl](http://herstelkompas.dev.fdnd.nl/) 🚧  | [---](...)  |
 | [Leren met AI](https://github.com/fdnd-agency/leren-met-ai) | [lerenmetai.dev.fdnd.nl](http://lerenmetai.dev.fdnd.nl/) 🚧 | [---](...)  |
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) * | [milledoni.dev.fdnd.nl](https://milledoni.dev.fdnd.nl/) | [---](...) | 
-| [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) | [nebulaxplorer.dev.fdnd.nl](https://nebulaxplorer.dev.fdnd.nl/) 🚧 | [---](...)  |
+| [Nebula - Xplorer](https://github.com/fdnd-agency/nebulaxplorer/wiki/Design-Challenge) | [nebulaxplorer.dev.fdnd.nl](https://nebulaxplorer.dev.fdnd.nl/) | [---](...)  |
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [snappthis.dev.fdnd.nl](https://snappthis.dev.fdnd.nl/) 🚧 | [---](...)  |
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
