@@ -3,6 +3,7 @@
 FDND Agency is het projectenbureau van [FDND.nl](https://fdnd.nl).  
 Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
+[About FDND Agency](https://github.com/fdnd-agency/.github/blob/main/about-agency.md) ✨  
 [FDND Agency Dashboard](https://dashboard.fdnd.nl/) 📈  
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html) 🤝
 
