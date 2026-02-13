@@ -58,7 +58,7 @@ Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit
 
 #### Vaste momenten
 
-- **Maandag:** Om 13:00 vindt een weekstart plaats waarin iedereen bespreekt waar zij die week aan werken, georganiseerd door scrummasters.
+- **Maandag:** Om 13:00 vindt een weekstart plaats waarin iedereen bespreekt waar zij die week aan werken, georganiseerd door scrummasters. Ook vinden er code reviews plaats met senior developers, waarbij de kwaliteit van de code wordt geborgd.
 - **Dagelijks:** gezamenlijke stand-up in de ochtend, georganiseerd door de scrummasters.
 - **Eerste woensdag van de sprint:** R&D-middag, voorbereid en georganiseerd door studenten.
 - **Vrijdag:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen.
@@ -71,6 +71,10 @@ programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te
 ---
 ### Begeleiding
 
+Docenten die in de FDND Agency begeleiden veranderen hun rol van docent naar senior developer. Je spreekt aan op het niveau van een junior developer, zie [Aanspreken op niveau](https://docs.fdnd.nl/onderwijs.html#semester-4-zelfregulatie) in de FDND docs. 
+
+#### Rooster
+
 | Dagdeel          | Locatie  | Begeleider(s)               |
 | ---------------- | -------- | --------------------------- |
 | Maandagochtend   | Aquarium | Justus, Jordy               |
@@ -78,7 +82,10 @@ programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te
 | Dinsdag          | Remote   | –                           |
 | Woensdagochtend  | Aquarium | ?                           |
 | Woensdagmiddag   | Studio   | Justus, Joost, Koop, Dorien |
-| Donderdagochtend | Aquarium | Suus, Jordy                 |
+| Donderdagochtend | Aquarium | Jordy                       |
 | Donderdagmiddag  | Studio   | ?                           |
 | Vrijdagochtend   | Aquarium | Dorien, Jordy               |
 | Vrijdagmiddag    | Studio   | Dorien, Justus, Joost, Suus |
+
+
+
