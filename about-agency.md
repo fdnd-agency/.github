@@ -4,11 +4,11 @@ FDND Agency is het leerbedrijf van de AD-opleiding Frontend Design & Development
 
 Studenten werken aan een eigen project en kunnen worden gekoppeld aan studenten uit verschillende opleidingen en disciplines, zoals:
 
-- CMD
-- FDND
-- Hack Your Future
-- AD Software Development
-- AD Social Media Productions
+- [CMD](https://cmd-amsterdam.nl/)
+- [FDND](https://fdnd.nl/)
+- [Hack Your Future](https://hackyourfuture.net/)
+- [AD Software Development](https://www.hva.nl/opleidingen/ad-software-development)
+- [AD Social Media Productions](https://www.hva.nl/opleidingen/ad-smart-media-production)
 
 Op deze manier doen studenten ervaring op met **multidisciplinair samenwerken** binnen een gesimuleerde agency-omgeving.
 
