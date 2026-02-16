@@ -22,6 +22,7 @@ Inhoudsopgave:
 - [Planning en cadans](#planning-en-cadans)
   - [Dagindeling](#dagindeling)
   - [Vaste momenten](#vaste-momenten)
+  - [R&D woensdag](#rd-woensdag)
   - [Mentorprogramma](#mentorprogramma)
 - [Begeleiding](#begeleiding)
   - [Rooster](#rooster)
@@ -95,6 +96,12 @@ Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit
 - **Dagelijks:** gezamenlijke stand-up in de ochtend, georganiseerd door de scrummasters.
 - **Eerste woensdag van de sprint:** R&D-middag, voorbereid en georganiseerd door studenten.
 - **Vrijdag:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen. Work Hard Play Hard!
+
+#### R&D woensdag
+
+Elke eerste week van de sprint is er ruimte op de woensdagmiddag om een deep dive te doen in een onderwerp dat jij leuk vindt. Doe onderzoek naar techniek die je interessant vind, een design pattern, psychologie op het web(?), LLM's, processen etc. Divergeer en convergeer en vooral speel ermee. 
+
+We maken een rooster wanneer je aan de hele Agency gaat presenteren wat je tot nu toe hebt geleerd over je onderwerp. Dit zal een presentatie van max 15 minuutjes zijn waar je een presentatie geeft over hoe het onderzoek is gegaan, wat je hebt geleerd, een demo, uitleg, workshop etc. 
 
 #### Mentorprogramma
 
