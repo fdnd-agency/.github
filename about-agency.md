@@ -101,6 +101,15 @@ Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit
 Agency deelnemers doen mee aan het mentorprogramma van FDND. Eén ochtend in de week mentoren de studenten de eerste jaars studenten. Ze draaien mee in het
 programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te schieten, code reviews te doen etc. 
 
+**Rooster**
+| Maandagochtend | Dinsdag | Woensdagochtend  | Vrijdagochtend  |
+|---|---|---|---|
+| Razan | Iris  | Rick | Luuk |
+| Yamen |   | Maksim | Alun |
+| Ravi |   | Miel | Fabian |
+| Alia |   | Melissa | Ilias |
+| Alex |   |  |   |
+
 ---
 ### Begeleiding
 
