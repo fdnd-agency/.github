@@ -48,7 +48,7 @@ Studenten ontwikkelen code volgens de **[kwaliteitsstandaarden van FDND Agency](
 Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit van de code te waarborgen.
 
 ---
-### Planning en ritme
+### Planning en cadans
 
 #### Dagindeling
 
