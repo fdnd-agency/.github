@@ -12,6 +12,20 @@ Studenten werken aan een eigen project en kunnen worden gekoppeld aan studenten 
 
 Op deze manier doen studenten ervaring op met **multidisciplinair samenwerken** binnen een gesimuleerde agency-omgeving.
 
+Inhoudsopgave:
+
+- [Werkwijze](#werkwijze)
+  - [Huisregels](#huisregels)
+- [Scrum Master Light](#scrum-master-light)
+- [Dagelijkse stand-up](#dagelijkse-stand-up)
+- [Kwaliteit en code](#kwaliteit-en-code)
+- [Planning en cadans](#planning-en-cadans)
+  - [Dagindeling](#dagindeling)
+  - [Vaste momenten](#vaste-momenten)
+  - [Mentorprogramma](#mentorprogramma)
+- [Begeleiding](#begeleiding)
+  - [Rooster](#rooster)
+
 ---
 ### Werkwijze
 
@@ -21,6 +35,25 @@ Per project:
 - wordt een eigen projectboard bijgehouden;
 - schrijven studenten zelf user stories;
 - zorgen teams ervoor dat het board actueel blijft.
+
+#### Huisregels
+
+- We zijn allemaal aanwezig om 9.30 uur in het aquarium 🕥❗️
+- Communiceer op tijd (voor 9.30) op het teamkanaal “FDND Agency absence” over je afwezigheid/aanwezigheid. 
+
+- Doe de standups, ook als er geen scrum master aanwezig is 
+- Communiceer 📧 tijdig met je klant over vergaderingen en je voortgang
+
+- Volg [FDND conventies](https://docs.fdnd.nl/conventies.html)
+- Elke vrijdag is er “iets” om te bespreken 
+
+- Wees respectvol, wees vriendelijk 🤗
+- Je kunt goede discussies voeren over de inhoud van je project, dit moet niet eindigen in fysieke gevechten 🥊
+- Als er problemen zijn binnen het team die je zelf niet kunt oplossen, kun je altijd escaleren naar een docent
+- Zorg voor een rustige 🧘 werkomgeving
+- Blijf nog even tijdens de Work Hard Play Hard 🏓 op vrijdag
+- Neem een marshmallow 🍡 pauze 
+- Neem taart 🍰 mee op je verjaardag
 
 ### Scrum Master Light
 
@@ -61,7 +94,7 @@ Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit
 - **Maandag:** Om 13:00 vindt een weekstart plaats waarin iedereen bespreekt waar zij die week aan werken, georganiseerd door scrummasters. Ook vinden er code reviews plaats met senior developers, waarbij de kwaliteit van de code wordt geborgd.
 - **Dagelijks:** gezamenlijke stand-up in de ochtend, georganiseerd door de scrummasters.
 - **Eerste woensdag van de sprint:** R&D-middag, voorbereid en georganiseerd door studenten.
-- **Vrijdag:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen.
+- **Vrijdag:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen. Work Hard Play Hard!
 
 #### Mentorprogramma
 
