@@ -1,4 +1,11 @@
-# [EPIC]: <Epic title>
+---
+name: Epic
+about: A large piece of work broken down into user stories
+title: "[EPIC]: "
+type: 'epic'
+labels: 'epic'
+assignees: ''
+---
 
 ## 🧭 Goal
 *A short description of the problem this Epic solves and why it matters.*
