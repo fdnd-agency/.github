@@ -21,14 +21,6 @@ assignees: ''
 
 ---
 
-## 📖 User Stories
-*Add user stories as subissues*
-
-- [USER STORY]: As a <role>, I want <action> so that <value>
-- [USER STORY]: As a <role>, I want <action> so that <value>
-
----
-
 ## ✅ Acceptance Criteria
 *When do we consider this Epic “Done”?*
 
@@ -44,3 +36,9 @@ assignees: ''
 
 - 
 - 
+
+---
+
+## 📖 User Stories
+*Add user stories as subissues*
+
