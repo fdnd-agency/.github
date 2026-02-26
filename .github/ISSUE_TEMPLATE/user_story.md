@@ -7,21 +7,24 @@ labels: 'user-story'
 assignees: ''
 ---
 
-### 📌 Story
+## 📌 Story
 As a **[type of user]** , I want **[some goal / action]**, so that **[some value / benefit]**
 
 ---
 
-### 🎯 Scope
+## 🎯 Scope
 
 > What work is part of issue?
 
 ---
 
-### ✅ Acceptance Criteria
+## ✅ Acceptance Criteria
 
 - [ ] 
 - [ ] 
 - [ ] 
 
 ---
+
+## Features
+*Add concrete features as subissues*
