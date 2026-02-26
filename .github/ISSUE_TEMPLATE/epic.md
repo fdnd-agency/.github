@@ -40,7 +40,7 @@ assignees: ''
 ---
 
 ## 📎 Notes
-* Decisions, open questions.*
+*Decisions, open questions.*
 
 - 
 - 
