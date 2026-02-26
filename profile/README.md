@@ -15,7 +15,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | :--------- | 
 | [AdConnect](https://github.com/fdnd-agency/adconnect/wiki/Design-Challenge) | 
 | [Buurtcampuskrant](https://github.com/fdnd-agency/buurtcampuskrant/wiki/Design-Challenge) | 
-| [Instrumentenuitleen Preludefonds](https://github.com/fdnd-agency/instrumentenuitleen/wiki/Design-Challenge) | 
+| [Preludefonds Instrumentenuitleen](https://github.com/fdnd-agency/preludefondsinstrumentenuitleen/wiki/Design-Challenge) | 
 | [Bloemenveld Frankendael](https://github.com/fdnd-agency/bloemenveldfrankendael/wiki/Design-Challenge) | 
 | [Milledoni](https://github.com/fdnd-agency/milledoni/wiki/Design-Challenge) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) | 
