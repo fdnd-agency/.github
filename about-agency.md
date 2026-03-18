@@ -115,7 +115,7 @@ programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te
 | Razan | Iris  | Rick | Luuk |
 | Yamen |   | Maksim | Alun |
 | Ravi |   | Miel | Fabian |
-| Alia |   | Melissa | Ilias |
+| Alia |   |  | Ilias |
 | Alex |   |  |   |
 
 ---
