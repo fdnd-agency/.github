@@ -106,17 +106,15 @@ We maken een rooster wanneer je aan de hele Agency gaat presenteren wat je tot n
 
 #### Mentorprogramma
 
-Agency deelnemers doen mee aan het mentorprogramma van FDND. Eén ochtend in de week mentoren de studenten de eerste jaars studenten. Ze draaien mee in het
+FDND'er doen tijdens de agency mee aan het mentorprogramma van FDND. Eén ochtend in de week mentoren deze studenten de eerste jaars studenten. Ze draaien mee in het
 programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te schieten, code reviews te doen etc. 
 
 **Rooster**
 | Maandagochtend | Dinsdag | Woensdagochtend  | Vrijdagochtend  |
 |---|---|---|---|
 |  | Iris  | Rick |  |
-| Yamen |   |  |  |
-| Ravi |   | Miel |  |
-|  |   |  |  |
-|  |   |  |   |
+| Yamen |   | Miel |  |
+| Ravi |   |  |  |
 
 ---
 ### Begeleiding
