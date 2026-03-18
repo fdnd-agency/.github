@@ -130,7 +130,7 @@ Docenten die in de FDND Agency begeleiden veranderen hun rol van docent naar sen
 | Dinsdag          | Remote   |                             |
 | Woensdagochtend  | Aquarium | ?                           |
 | Woensdagmiddag   | Studio   | Justus, Joost, Koop         |
-| Donderdag        | Remote   | – Chapter meetings          |
+| Donderdag        | Remote   | Chapter meetings            |
 | Vrijdagochtend   | Aquarium |                             |
 | Vrijdagmiddag    | Studio   | Dorien, Justus, Joost, Suus |
 
