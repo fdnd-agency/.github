@@ -125,14 +125,13 @@ Docenten die in de FDND Agency begeleiden veranderen hun rol van docent naar sen
 
 | Dagdeel          | Locatie  | Begeleider(s)               |
 | ---------------- | -------- | --------------------------- |
-| Maandagochtend   | Aquarium | Justus, Jordy               |
+| Maandagochtend   | Aquarium | Justus                      |
 | Maandagmiddag    | Studio   | Justus, Dorien, Krijn, Cyd  |
-| Dinsdag          | Remote   | –                           |
+| Dinsdag          | Remote   |                             |
 | Woensdagochtend  | Aquarium | ?                           |
-| Woensdagmiddag   | Studio   | Justus, Joost, Koop, Dorien |
-| Donderdagochtend | Aquarium | Jordy                       |
-| Donderdagmiddag  | Studio   | ?                           |
-| Vrijdagochtend   | Aquarium | Dorien, Jordy               |
+| Woensdagmiddag   | Studio   | Justus, Joost, Koop         |
+| Donderdag        | Remote   | – Chapter meetings          |
+| Vrijdagochtend   | Aquarium |                             |
 | Vrijdagmiddag    | Studio   | Dorien, Justus, Joost, Suus |
 
 
