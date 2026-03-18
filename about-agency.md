@@ -112,9 +112,9 @@ programma en zorgen dat ze actief deelnemen door vragen te stellen, issues in te
 **Rooster**
 | Maandagochtend | Dinsdag | Woensdagochtend  | Vrijdagochtend  |
 |---|---|---|---|
-|  | Iris  | Rick |  |
-| Yamen |   | Miel |  |
-| Ravi |   |  |  |
+| Yamen | Iris  | Rick |  |
+| Ravi |   | Miel |  |
+|  |   |  |  |
 
 ---
 ### Begeleiding
