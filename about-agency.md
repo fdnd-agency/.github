@@ -95,7 +95,8 @@ Alle pull requests worden gereviewd door docenten en co-teachers om de kwaliteit
 - **Maandag:** Om 13:00 vindt een weekstart plaats waarin iedereen bespreekt waar zij die week aan werken, georganiseerd door scrummasters. Ook vinden er code reviews plaats met senior developers, waarbij de kwaliteit van de code wordt geborgd.
 - **Dagelijks:** gezamenlijke stand-up in de ochtend, georganiseerd door de scrummasters.
 - **Eerste woensdag van de sprint:** R&D-middag, voorbereid en georganiseerd door studenten.
-- **Vrijdag:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen. Work Hard Play Hard!
+- **Eerste vrijdag van de sprint:** code- en designreview, studenten bereiden voor wat ze willen laten reviewen. Work Hard Play Hard!
+- **Tweede vrijdag van de sprint:** demo presentatie aan de hele agency wat heb je deze sprint opgeleverd.
 
 #### R&D woensdag
 
