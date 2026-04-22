@@ -1,3 +1,12 @@
+---
+name: Test Story
+about: Write a test story for this project
+title: "[TEST]: "
+type: 'test'
+labels: ''
+assignees: ''
+
+---
 ## 🧪 Test Story
 As a developer, I want to test [feature/module], so that it behaves correctly and edge cases are handled.
  
