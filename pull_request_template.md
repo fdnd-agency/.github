@@ -9,7 +9,7 @@ Resolves issue #1337
 ## How Has This Been Tested?
 <!-- Link to test results in the Wiki-->
 
-### RAPPE Principes
+### RAPPE Principles
 
 - [ ] [User test]()
 - [ ] [Accessibility test]()
