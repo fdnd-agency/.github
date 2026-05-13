@@ -9,8 +9,11 @@ Resolves issue #1337
 ## How Has This Been Tested?
 <!-- Link to test results in the Wiki-->
 
+### RAPPE Principes
+
 - [ ] [User test]()
 - [ ] [Accessibility test]()
+- [ ] [Progressive Enhancement test]
 - [ ] [Performance test]()
 - [ ] [Responsive Design test]()
 - [ ] [Device test]()
