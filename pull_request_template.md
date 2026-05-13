@@ -13,7 +13,7 @@ Resolves issue #1337
 
 - [ ] [User test]()
 - [ ] [Accessibility test]()
-- [ ] [Progressive Enhancement test]
+- [ ] [Progressive Enhancement test]() 
 - [ ] [Performance test]()
 - [ ] [Responsive Design test]()
 - [ ] [Device test]()
