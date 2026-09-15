@@ -7,7 +7,13 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 [FDND Agency Dashboard](https://dashboard.fdnd.nl/) 📈  
 [FDND Agency Conventies](https://docs.fdnd.nl/conventies.html) 🤝
 
-<h2>Projecten 2025 - 2026</h2>
+<details open>
+<summary><h2>Projecten 2026 - 2027</h2></summary>
+
+</details
+
+<details>
+<summary><h2>Projecten 2025 - 2026</h2></summary>
 
 ### Jaar 1
 <!-- [Atlas 40 - 45](https://github.com/fdnd-agency/atlas4045/wiki/Design-Challenge)  -->
@@ -36,12 +42,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Oncollaboration](https://github.com/fdnd-agency/oncollaboration/wiki/Design-Challenge) | [oncollaboration.dev.fdnd.nl](https://oncollaboration.dev.fdnd.nl/) | [oncollaboration.agency.fdnd.nl](https://oncollaboration.agency.fdnd.nl/) | 
 | [SnappThis](https://github.com/fdnd-agency/snappthis/wiki/Design-Challenge) *| [snappthis.dev.fdnd.nl](https://snappthis.dev.fdnd.nl/) | [---](...)  |
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
-
-
-
-
-
-
 </details>
 
 <details>
