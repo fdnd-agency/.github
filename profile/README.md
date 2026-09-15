@@ -10,7 +10,7 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 <details open>
 <summary><h2>Projecten 2026 - 2027</h2></summary>
 
-</details
+</details>
 
 <details>
 <summary><h2>Projecten 2025 - 2026</h2></summary>
@@ -74,14 +74,6 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 | [Visual Thinking](https://github.com/fdnd-agency/visual-thinking/) | [visualthinking.dev.fdnd.nl](https://visualthinking.dev.fdnd.nl) | [visualthinking.school](https://visualthinking.school/) |  
 | [Wogo](https://github.com/fdnd-agency/wogo) | [wogo.dev.fdnd.nl](https://wogo.dev.fdnd.nl/) | [wogo.agency.fdnd.nl](https://wogo.agency.fdnd.nl/) |  
 | [FDND Programma](https://github.com/fdnd-agency/fdnd/tree/programma.release-candidate) | [programma.agency.fdnd.nl](https://programma.agency.fdnd.nl/) | [programma.fdnd.nl](https://programma.fdnd.nl/) |  
-
-<!--| [AccessDash](https://github.com/fdnd-agency/accessdash) | [accessdash.dev.fdnd.nl](https://accessdash.dev.fdnd.nl/) | [accessdash.agency.fdnd.nl](https://accessdash.agency.fdnd.nl/) |  -->
-<!--| [DDA Vacatures](https://github.com/fdnd-agency/dda/) | [dda.dev.fdnd.nl](https://dda.dev.fdnd.nl/) | [dda.agency.fdnd.nl](https://dda.agency.fdnd.nl/) |  -->
-<!--| [Deloitte Digital Factory](https://github.com/fdnd-agency/deloitte) | [deloitte.dev.fdnd.nl](https://deloitte.dev.fdnd.nl/) | [deloitte.agency.fdnd.nl](https://deloitte.agency.fdnd.nl/) |  -->
-<!--| [Mediahuis](https://github.com/fdnd-agency/triple) | [mediahuis.dev.fdnd.nl](https://mediahuis.dev.fdnd.nl/) | [mediahuis.agency.fdnd.nl](https://mediahuis.agency.fdnd.nl/) | --> 
-<!--| [Qatar Museums](https://github.com/fdnd-agency/fabrique) | [qatarmuseums.dev.fdnd.nl](https://qatarmuseums.dev.fdnd.nl/) | [qatarmuseums.agency.fdnd.nl](https://qatarmuseums.agency.fdnd.nl/) |  -->
-<!--| [FDND We ❤️ Web](https://github.com/fdnd-agency/fdnd/tree/weloveweb.release-candidate) | [weloveweb.agency.fdnd.nl](https://weloveweb.agency.fdnd.nl/) | [weloveweb.fdnd.nl](https://weloveweb.fdnd.nl/) |-->
-
 </details>
 
 <details>
