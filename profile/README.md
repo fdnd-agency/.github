@@ -8,7 +8,8 @@ Studenten, opdrachtgevers én docenten werken hier samen aan de projecten.
 
 <h2>Projecten 2026 - 2027</h2>
 
-Bekijk de projecten van 2026 - 2027 in het dashboard: [FDND Agency Dashboard](https://dashboard.fdnd.nl/) 📈  
+Bekijk de projecten van 2026 - 2027 in het dashboard:  
+[FDND Agency Dashboard](https://dashboard.fdnd.nl/) 📈  
 
 <details>
 <summary><h2>Projecten 2025 - 2026</h2></summary>
